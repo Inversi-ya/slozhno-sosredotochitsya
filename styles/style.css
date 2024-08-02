@@ -19,7 +19,7 @@
   display: grid;
   grid-template-rows: 1fr auto 1fr;
   /* прибивает всё к правому краю */
-  justify-items: end;  
+  justify-items: end;
   block-size: 100vh;
 }
 
@@ -58,7 +58,7 @@
 
 /* ________декор / уголки________ */
 
-.decorated-zone { 
+.decorated-zone {
   position: relative;
 }
 
@@ -68,7 +68,8 @@
   display: block;
   content: '';
   width: 25px;
-  height: 25px;}
+  height: 25px;
+}
 
   
 .decorated-zone::before {
@@ -129,7 +130,7 @@
 }
 
 .header__theme-menu-button {
-  inline-size: 70px; 
+  inline-size: 70px;
   block-size: 26px;
   background-color: transparent;
   font-family: var(--main-font);
@@ -285,13 +286,13 @@ img:nth-of-type(5) {
 .footer {
   display: flex;
   flex-direction: column;
-  justify-content: center;  
+  justify-content: center;
   align-items: center;
   block-size: 100vh;
   margin-block-start: calc(var(--padding-web) * 3);
 }
 
-.shadow{
+.shadow {
   text-shadow: 2px 2px 0 var(--accent-color);
 }
 
