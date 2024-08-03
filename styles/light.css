@@ -4,7 +4,7 @@
   переключая тему
 */
 @media (prefers-color-scheme: light) {
-  .page.theme_auto {
+  :root {
     --bg-color: #FFF1F7;
     --accent-color: #FF8DCB;
     --bg-image: url(../images/cover-image-light.png);
