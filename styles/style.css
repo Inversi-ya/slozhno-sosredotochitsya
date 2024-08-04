@@ -475,7 +475,7 @@ img:nth-of-type(5) {
     /* _____body_____ */
 
   .content {
-    grid-template-columns: repeat(auto-fit, 315px);
+    grid-template-columns: repeat(auto-fit, 314px);
   }  
 
   .header-2 {
