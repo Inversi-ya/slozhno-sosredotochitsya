@@ -7,9 +7,9 @@
   --accent-color: #ff0070;
   --bg-image: url(../images/cover-image-dark.png);
 
-  --h1-text-color: #DB00FF;
-  --h2-text-color: #FF0070;
-  --h3-text-color: #000028;
+  --header-text-color: #DB00FF;
+  --section-header-text-color: #FF0070;
+  --paragraph-header-text-color: #000028;
   --text-color: #F1B2CE;
 
   --button-color: #FF0070;

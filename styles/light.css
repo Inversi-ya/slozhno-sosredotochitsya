@@ -9,9 +9,9 @@
     --accent-color: #FF8DCB;
     --bg-image: url(../images/cover-image-light.png);
   
-    --h1-text-color: #FFC2E6;
-    --h2-text-color: #353430;
-    --h3-text-color: #353430;
+    --header-text-color: #FFC2E6;
+    --section-header-text-color: #353430;
+    --paragraph-header-text-color: #353430;
     --text-color: #353430;
   
     --button-color: #353430;
@@ -26,9 +26,9 @@
   --accent-color: #FF8DCB;
   --bg-image: url(../images/cover-image-light.png);
 
-  --h1-text-color: #FFC2E6;
-  --h2-text-color: #353430;
-  --h3-text-color: #353430;
+  --header-text-color: #FFC2E6;
+  --section-header-text-color: #353430;
+  --paragraph-header-text-color: #353430;
   --text-color: #353430;
 
   --button-color: #353430;
